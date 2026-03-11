@@ -1,5 +1,5 @@
 Automation Tools
-Python scripts built to automate repetitive administrative tasks in a private wealth management environment.
+Python scripts built to automate repetitive tasks.
 
 Scripts
 ord_minnett_automation.py
